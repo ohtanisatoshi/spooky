@@ -1,0 +1,1 @@
+If we discover repetitions of such letters, so arranged, they will most probably represent the word 'the.' Upon inspection, we find no less than seven such arrangements, the characters being;.

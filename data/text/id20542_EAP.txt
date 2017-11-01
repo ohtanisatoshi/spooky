@@ -1,0 +1,1 @@
+If the guess is right, the guesser wins one; if wrong, he loses one.

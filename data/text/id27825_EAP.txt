@@ -1,0 +1,1 @@
+In attempting ourselves an explanation of the Automaton, we will, in the first place, endeavor to show how its operations are effected, and afterwards describe, as briefly as possible, the nature of the observations from which we have deduced our result.

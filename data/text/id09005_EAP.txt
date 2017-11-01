@@ -1,0 +1,1 @@
+To be less abstract Let us suppose a game of draughts where the pieces are reduced to four kings, and where, of course, no oversight is to be expected.

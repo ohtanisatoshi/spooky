@@ -1,0 +1,1 @@
+One player holds in his hand a number of these toys, and demands of another whether that number is even or odd.

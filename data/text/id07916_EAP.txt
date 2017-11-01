@@ -1,0 +1,1 @@
+If two medallions are put into the drawer together, an answer is returned only to the lower one.

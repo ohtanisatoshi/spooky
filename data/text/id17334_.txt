@@ -1,0 +1,1 @@
+Occasionally, however, when the piece is not precisely in its proper situation, the Automaton fails in his attempt at seizing it.

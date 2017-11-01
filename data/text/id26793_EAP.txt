@@ -1,0 +1,1 @@
+For example, if this limit were three minutes, the moves of the Automaton might be made at any given intervals longer than three minutes.
